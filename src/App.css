@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+ul {
+  list-style: none;
+}
+body {
+  background: lightblue;
+}
